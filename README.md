@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="center">
 ![image](https://user-images.githubusercontent.com/122508872/230572673-beee0e97-cb7a-4277-b514-3cf7ff917fe6.gif)
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
