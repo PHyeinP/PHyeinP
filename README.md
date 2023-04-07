@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<center><img src="[/img/myImg.png](https://user-images.githubusercontent.com/122508872/230572673-beee0e97-cb7a-4277-b514-3cf7ff917fe6.gif)" width="300" height="300"></center>
+![image](https://user-images.githubusercontent.com/122508872/230572673-beee0e97-cb7a-4277-b514-3cf7ff917fe6.gif){: .align-center}
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
