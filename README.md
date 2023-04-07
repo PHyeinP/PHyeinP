@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<p align="center">
 <img src = "https://user-images.githubusercontent.com/122508872/230572673-beee0e97-cb7a-4277-b514-3cf7ff917fe6.gif" style="vertical-align:middle" >
 
 
