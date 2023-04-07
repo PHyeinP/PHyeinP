@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ![image](https://user-images.githubusercontent.com/122508872/230572673-beee0e97-cb7a-4277-b514-3cf7ff917fe6.gif){: .align-center}
-<p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></p>  
+<img src = "https://user-images.githubusercontent.com/122508872/230572673-beee0e97-cb7a-4277-b514-3cf7ff917fe6.gif" style="vertical-align:middle" >
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
